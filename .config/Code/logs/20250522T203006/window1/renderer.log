@@ -1,0 +1,22 @@
+2025-05-22 20:30:07.471 [info] Started local extension host with pid 10329.
+2025-05-22 20:30:07.495 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 20:30:09.450 [info] Settings Sync: Token updated for the account QuangThaiCTC
+2025-05-22 20:30:09.451 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-22 20:30:10.127 [info] [perf] Render performance baseline is 33ms
+2025-05-22 21:18:28.142 [error] [Extension Host] [AsyncCompletionManager] [287cdca6-d2f2-471f-93ce-b1618dd417aa] Request errored with AbortError: The operation was aborted.
+    at EventEmitter.abortHandler (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventEmitter.emit (node:events:524:28)
+    at qB.dispatchEvent (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:67:41)
+    at qB.fire (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:72:10)
+    at $7.abort (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:137:39)
+    at /home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/lib/src/networking.ts:254:19
+    at yZ.invoke (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at CT.cancel (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at _Z.cancel (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at Ll.cancelRequest (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/asyncCompletions.ts:270:41)
+    at Ll.getFirstMatchingRequest (/home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/asyncCompletions.ts:247:22)
+    at /home/quangthaictc/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/ghostText.ts:995:54 {
+  type: 'aborted',
+  _name: 'AbortError'
+}

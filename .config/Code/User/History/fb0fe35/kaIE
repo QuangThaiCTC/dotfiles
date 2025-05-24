@@ -1,0 +1,37 @@
+{
+    "layer": "top",
+    "margin-top": 2,
+    "margin-bottom": 0,
+    "margin-left": 5,
+    "margin-right": 5,    
+    "spacing": 0,
+
+    "include": [
+        "~/.config/waybar/modules.json"
+    ],
+
+    "modules-left": [
+        "custom/distrologo",
+        "hyprland/workspaces"
+    ],
+
+    "modules-center": [
+        "clock"
+    ],
+
+    "modules-right": [
+        "backllight",
+        "custom/updates",
+        "pulseaudio",
+        "bluetooth",
+        "network",
+        "battery", 
+        "power-profiles-daemon",
+        "group/hardware",
+        "group/tools",
+        "tray",
+        "custom/notification",
+        "custom/exit",
+        
+    ]
+}

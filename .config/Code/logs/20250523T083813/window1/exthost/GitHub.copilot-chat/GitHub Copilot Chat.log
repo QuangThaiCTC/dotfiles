@@ -1,0 +1,19 @@
+2025-05-23 08:38:19.134 [info] Using the Electron fetcher.
+2025-05-23 08:38:19.134 [info] Initializing Git extension service.
+2025-05-23 08:38:19.134 [info] Successfully activated the vscode.git extension.
+2025-05-23 08:38:19.134 [info] Enablement state of the vscode.git extension: true.
+2025-05-23 08:38:19.134 [info] Successfully registered Git commit message provider.
+2025-05-23 08:38:20.034 [info] Logged in as QuangThaiCTC
+2025-05-23 08:38:23.352 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 08:38:23.410 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 08:38:23.411 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-23 08:38:23.425 [info] Registering default platform agent...
+2025-05-23 08:38:23.686 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 08:38:25.816 [info] Fetched model metadata in 1676ms da447959-b28d-4054-86f1-33f66b13e079
+2025-05-23 08:38:25.821 [info] activationBlocker from 'languageModelAccess' took for 1715ms
+2025-05-23 09:08:26.292 [info] Logged in as QuangThaiCTC
+2025-05-23 09:08:46.543 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 09:08:46.555 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 09:08:46.607 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 09:08:48.249 [info] Fetched model metadata in 1702ms a930cd6e-5b0d-4c86-96e2-6b4e66a1799a
+2025-05-23 09:23:49.425 [info] Fetched model metadata in 904ms f3d6f762-0e3b-46c4-a2bd-5b215247d766

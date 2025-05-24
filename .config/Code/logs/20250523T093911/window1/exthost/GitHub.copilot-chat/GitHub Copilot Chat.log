@@ -1,0 +1,36 @@
+2025-05-23 09:39:19.325 [info] Using the Electron fetcher.
+2025-05-23 09:39:19.325 [info] Initializing Git extension service.
+2025-05-23 09:39:19.325 [info] Successfully activated the vscode.git extension.
+2025-05-23 09:39:19.325 [info] Enablement state of the vscode.git extension: true.
+2025-05-23 09:39:19.325 [info] Successfully registered Git commit message provider.
+2025-05-23 09:39:20.476 [info] Logged in as QuangThaiCTC
+2025-05-23 09:39:21.774 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 09:39:21.996 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 09:39:21.996 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-23 09:39:22.022 [info] Registering default platform agent...
+2025-05-23 09:39:22.046 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 09:39:22.768 [info] Fetched model metadata in 980ms 38a9f5e7-44f4-4323-be17-664e902084fc
+2025-05-23 09:39:23.021 [info] activationBlocker from 'languageModelAccess' took for 2846ms
+2025-05-23 09:54:24.859 [info] Fetched model metadata in 930ms c7c5db75-e063-4a6a-a125-fc2b94b46825
+2025-05-23 10:09:24.981 [info] Logged in as QuangThaiCTC
+2025-05-23 10:09:26.696 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 10:09:26.705 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 10:09:26.745 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 10:24:28.442 [info] Fetched model metadata in 1730ms 5e36547c-bcee-47f8-b605-8ca21170649d
+2025-05-23 10:39:28.754 [info] Logged in as QuangThaiCTC
+2025-05-23 10:39:29.948 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 10:39:29.958 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 10:39:29.977 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 10:39:31.211 [info] Fetched model metadata in 1260ms 6dbc4923-fb7c-470b-9c03-888b3884d3ec
+2025-05-23 10:54:32.461 [info] Fetched model metadata in 1027ms ff593e56-baed-44e7-9f3c-8d8f9cd6fc3b
+2025-05-23 11:09:32.725 [info] Logged in as QuangThaiCTC
+2025-05-23 11:09:34.196 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 11:09:34.205 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 11:09:34.230 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 11:09:35.290 [info] Fetched model metadata in 1091ms ec7eb0ea-41a6-4a3a-a399-7857a713d4f1
+2025-05-23 11:24:36.571 [info] Fetched model metadata in 1109ms 5293c24b-5218-4f40-890c-36b1ddbc318a
+2025-05-23 11:39:36.760 [info] Logged in as QuangThaiCTC
+2025-05-23 11:39:38.005 [info] Got Copilot token for QuangThaiCTC
+2025-05-23 11:39:38.015 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-23 11:39:38.034 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-23 11:39:38.984 [info] Fetched model metadata in 975ms 2363ed8a-0d98-4b99-b10e-78f30ffd767b

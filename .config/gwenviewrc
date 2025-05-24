@@ -1,0 +1,16 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/sugar-candy/Backgrounds/abstract.jpg
+File2[$e]=$HOME/Pictures/2025-05-22_14-01-55.png
+File3[$e]=$HOME/.local/share/wallpapers/ghibli/totoro-chilling-under-tree-summer-day-pc-wallpaper-4k.jpg
+Name1[$e]=abstract.jpg
+Name2[$e]=2025-05-22_14-01-55.png
+Name3[$e]=totoro-chilling-under-tree-summer-day-pc-wallpaper-4k.jpg
+
+[SideBar]
+InformationSplitterSizes=212,241

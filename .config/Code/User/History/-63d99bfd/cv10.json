@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/quangthaictc/.config/waybar"
+		},
+		{
+			"path": "/home/quangthaictc/.config/hypr"
+		},
+		{
+			"path": "../../../nwg-dock-hyprland"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,23 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MaterialThemeProjectNewConfig">
+        <option name="metadata">
+          <MTProjectMetadataState>
+            <option name="userId" value="-193b709d:196f39dca69:-7fff" />
+          </MTProjectMetadataState>
+        </option>
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="748" y="336" key="FileChooserDialogImpl" timestamp="1747989617118">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="748" y="336" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1747989617118" />
+        <state x="560" y="175" width="800" height="779" key="new project wizard" timestamp="1747989637897">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="560" y="175" width="800" height="779" key="new project wizard/0.0.1920.1080" timestamp="1747989637897" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

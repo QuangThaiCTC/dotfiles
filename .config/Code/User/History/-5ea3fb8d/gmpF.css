@@ -1,0 +1,174 @@
+/*
+ * __        __          _                  ____  _         _
+ * \ \      / /_ _ _   _| |__   __ _ _ __  / ___|| |_ _   _| | ___
+ *  \ \ /\ / / _` | | | | '_ \ / _` | '__| \___ \| __| | | | |/ _ \
+ *   \ V  V / (_| | |_| | |_) | (_| | |     ___) | |_| |_| | |  __/
+ *    \_/\_/ \__,_|\__, |_.__/ \__,_|_|    |____/ \__|\__, |_|\___|
+ *                 |___/                              |___/
+ *
+ * ----------------------------------------------------- */
+
+ @import './colors.css';
+
+* {
+    font-family: JetBrainsMono Nerd Font;
+    border: none;
+    color: @primary;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+window#waybar {
+    background-color: transparent;
+    transition-property: background;
+    transition-duration: .5s;
+}
+
+/* -----------------------------------------------------
+ * Modules Left
+ * ----------------------------------------------------- */
+
+.modules-left {
+    background-color: @blur_background;
+    border: 2px solid @bordercolor;
+    padding: 0px 5px 0px 5px;
+    border-radius: 10px 25px 10px 25px;
+    transition-property: background;
+    transition-duration: .5s;
+}
+
+
+/* -----------------------------------------------------
+ * Workspaces
+ * ----------------------------------------------------- */
+#workspaces {
+    background-color: @blur_background8;
+    padding: 0px 10px 0px 10px;
+    border: 2px solid @bordercolor;
+    margin: 2px 15px 2px 5px;
+    border-radius: 10px 25px 10px 25px;
+}
+
+#workspaces button {
+    margin: 1px 3px;
+    padding: 0px 4px 0px 4px;
+    border-radius: 25px;
+    transition: all 0.1s ease;
+}
+
+#workspaces button.active {
+    font-size: 16px;
+    color: #FFFFFF;
+    min-width: 30px;
+    transition: all 0.1s ease;
+}
+
+
+
+
+/* -----------------------------------------------------
+ * Window
+ * ----------------------------------------------------- */
+
+#window {
+    background: @blur_background8;
+    margin: 2px 0px 2px 0px;
+    padding: 2px 20px 0px 20px;
+    border-radius: 10px 25px 10px 25px;
+    border: 2px solid @bordercolor;
+    color:@textcolor;
+    font-size:12px;
+}
+
+window#waybar.empty #window {
+    border: transparent;
+    background-color:transparent;
+}
+
+
+/* -----------------------------------------------------
+ * Modules Center
+ * ----------------------------------------------------- */
+
+.modules-center {
+    background-color: @blur_background8;
+    border: 2px solid @bordercolor;
+    border-radius: 10px 10px 25px 25px;
+    transition-property: background;
+    transition-duration: .5s;
+}
+
+
+#custom-distrologo {
+    font-size: 32px;
+    color: @primary;
+    border-radius: 10px 10px 25px 25px;
+    margin: 0px 30px 0px 35px;
+}
+
+#clock {
+    font-size: 16px;
+    color: @primary;
+    border-radius: 10px 10px 25px 25px;
+    margin: 0px 40px 0px 0px;
+}
+
+
+/* -----------------------------------------------------
+ * Modules Right
+ * ----------------------------------------------------- */
+
+.modules-right {
+    background-color: @blur_background;
+    border: 2px solid @bordercolor;
+    border-radius: 25px 10px 25px 10px;
+    transition-property: background;
+    transition-duration: .5s;
+    padding: 0px 5px 0px 5px;
+}
+
+#pulseaudio {
+    background: @blur_background8;
+    margin: 2px 15px 2px 0px;
+    padding: 2px 20px 0px 20px;
+    border-radius: 25px 10px 25px 10px;
+    border: 2px solid @bordercolor;
+    font-size:13px;
+}
+
+#backlight {
+    background: @blur_background8;
+    margin: 2px 15px 2px 0px;
+    padding: 2px 20px 0px 20px;
+    border-radius: 25px 10px 25px 10px;
+    border: 2px solid @bordercolor;
+    font-size:13px;
+}
+
+#network {
+    background: @blur_background8;
+    margin: 2px 15px 2px 0px;
+    padding: 2px 20px 0px 20px;
+    border-radius: 25px 10px 25px 10px;
+    border: 2px solid @bordercolor;
+    font-size:13px;
+}
+
+#battery {
+    background: @blur_background8;
+    margin: 2px 15px 2px 0px;
+    padding: 2px 20px 0px 20px;
+    border-radius: 25px 10px 25px 10px;
+    border: 2px solid @bordercolor;
+    font-size:13px;
+}
+
+#custom-notification,#custom-exit {
+    background: @blur_background8;
+    margin: 2px 5px 2px 0px;
+    padding: 2px 20px 0px 15px;
+    border-radius: 25px 10px 25px 10px;
+    border: 2px solid @bordercolor;
+    font-size:13px;
+}

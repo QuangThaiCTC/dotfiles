@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/quangthaictc/.config/hypr"
+		},
+		{
+			"path": "../../../rofi"
+		},
+		{
+			"path": "../../../waybar"
+		},
+		{
+			"path": "../../../wlogout"
+		},
+		{
+			"path": "../../../../Personal/hyprland-aperture-dotfiles"
+		}
+	]
+}

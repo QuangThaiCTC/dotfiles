@@ -1,0 +1,30 @@
+{
+  "workbench.editor.enablePreview": false,
+  "workbench.preferredLightColorTheme": "Visual Studio Dark",
+  "git.autofetch": true,
+  "editor.accessibilitySupport": "on",
+  "terminal.integrated.sendKeybindingsToShell": true,
+  "workbench.editorAssociations": {
+    "*.exe": "default"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": false,
+  "editor.semanticHighlighting.enabled": true,
+  "files.associations": {
+    "*.java": "java"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "explorer.confirmDragAndDrop": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', 'JetBrainsMono NF', monospace",
+
+  
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', 'JetBrainsMono NF', monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmPasteNative": false,
+  "workbench.colorTheme": "GitHub Light Default"
+}

@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "requesterUsername": "QuangThaiCTC",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/124580122",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "a507bfa6-3c8f-4fd9-8b6e-92cc14029fbe",
+  "creationDate": 1747730648588,
+  "isImported": false,
+  "lastMessageDate": 1747730648588
+}

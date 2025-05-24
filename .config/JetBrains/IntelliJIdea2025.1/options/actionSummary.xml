@@ -1,0 +1,142 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1748009891746" />
+    </e>
+    <e n="$Undo">
+      <i c="52" l="1748066682204" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1747992864649" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1747992707239" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1162" l="1748012122678" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="106" l="1748011918551" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="13" l="1748011663329" />
+    </e>
+    <e n="EditorCopy">
+      <i c="11" l="1748011765081" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1747996910376" />
+    </e>
+    <e n="EditorDelete">
+      <i c="13" l="1748010608390" />
+    </e>
+    <e n="EditorDown">
+      <i c="145" l="1748066684687" />
+    </e>
+    <e n="EditorEnter">
+      <i c="227" l="1748066826798" />
+    </e>
+    <e n="EditorLeft">
+      <i c="716" l="1748066675636" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="37" l="1747990085279" />
+    </e>
+    <e n="EditorPaste">
+      <i c="23" l="1748011767683" />
+    </e>
+    <e n="EditorRight">
+      <i c="584" l="1748066685051" />
+    </e>
+    <e n="EditorTab">
+      <i c="57" l="1748011587967" />
+    </e>
+    <e n="EditorUp">
+      <i c="86" l="1748066685222" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="1" l="1748008712136" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="3" l="1747989614920" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1748011178955" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="1" l="1748008512251" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="126" l="1748011980028" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1747989760579" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="1" l="1748010494065" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1747989905467" />
+    </e>
+    <e n="Run">
+      <i c="84" l="1748066819694" />
+    </e>
+    <e n="SaveAll">
+      <i c="3" l="1747992568057" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="8" l="1748010817416" />
+    </e>
+    <e n="Stop">
+      <i c="8" l="1747996582343" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1747989599020" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1747843548265" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="4" l="1748008721597" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1748011195817" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$ModeAction">
+      <i c="1" l="1748011183989" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1747842173759" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1747843535462" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="5" l="1748010487949" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="5" l="1748009045356" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1747989895650" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1747989670181" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="3" l="1747843963820" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1747989546399" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTAutoResetNotification$2">
+      <i c="1" l="1747989662706" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTInstallAtomNotification$2">
+      <i c="1" l="1747989665382" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$2">
+      <i c="1" l="1747989667203" />
+    </e>
+  </component>
+</application>

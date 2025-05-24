@@ -1,0 +1,573 @@
+2025-05-23 09:39:16.569 [info] [main] Log level: Info
+2025-05-23 09:39:16.569 [info] [main] Validating found git in: "git"
+2025-05-23 09:39:16.569 [info] [main] Using git "2.49.0" from "git"
+2025-05-23 09:39:16.569 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-23 09:39:16.569 [info] > git rev-parse --show-toplevel [16ms]
+2025-05-23 09:39:16.569 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.569 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 09:39:16.569 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.572 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 09:39:16.572 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.582 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 09:39:16.582 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.595 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:39:16.595 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.604 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 09:39:16.604 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.616 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 09:39:16.616 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.623 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 09:39:16.623 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.635 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 09:39:16.635 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.643 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:39:16.644 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.657 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 09:39:16.657 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:16.664 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-23 09:39:18.787 [info] > git rev-parse --show-toplevel [156ms]
+2025-05-23 09:39:18.787 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:19.153 [info] > git rev-parse --show-toplevel [300ms]
+2025-05-23 09:39:19.153 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:19.301 [info] > git rev-parse --show-toplevel [127ms]
+2025-05-23 09:39:19.301 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:19.326 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 09:39:19.326 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:19.366 [info] > git rev-parse --show-toplevel [23ms]
+2025-05-23 09:39:19.366 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.002 [info] > git rev-parse --show-toplevel [45ms]
+2025-05-23 09:39:20.002 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.049 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-23 09:39:20.049 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.097 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-23 09:39:20.097 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.123 [info] > git rev-parse --show-toplevel [8ms]
+2025-05-23 09:39:20.123 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.197 [info] > git rev-parse --show-toplevel [56ms]
+2025-05-23 09:39:20.197 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.229 [info] > git rev-parse --show-toplevel [16ms]
+2025-05-23 09:39:20.229 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.434 [info] > git rev-parse --show-toplevel [190ms]
+2025-05-23 09:39:20.434 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:39:20.453 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:39:20.453 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:51:28.310 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-23 09:51:28.310 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:57:43.974 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:57:43.974 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:58:20.614 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:58:20.614 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:58:24.931 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 09:58:24.932 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:58:56.551 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:58:56.551 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:59:35.060 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 09:59:35.060 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:59:35.800 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 09:59:35.800 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 09:59:53.674 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 09:59:53.674 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:01:24.319 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:01:24.319 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:06:47.490 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:06:47.490 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:10:17.463 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:10:17.652 [info] > git rev-parse --git-dir --git-common-dir [166ms]
+2025-05-23 10:10:17.681 [info] [Model][openRepository] Opened repository (path): /home/quangthaictc/Personal/hyprland-aperture-dotfiles
+2025-05-23 10:10:17.681 [info] [Model][openRepository] Opened repository (real path): /home/quangthaictc/Personal/hyprland-aperture-dotfiles
+2025-05-23 10:10:17.797 [info] > git config --get commit.template [42ms]
+2025-05-23 10:10:17.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-23 10:10:17.845 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:10:17.904 [info] > git rev-parse refs/remotes/origin/main [59ms]
+2025-05-23 10:10:17.946 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-23 10:10:18.237 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-23 10:10:18.396 [info] > git status -z -uall [474ms]
+2025-05-23 10:10:18.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-05-23 10:10:18.458 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-05-23 10:10:18.458 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-23 10:10:18.474 [info] > git config --get commit.template [36ms]
+2025-05-23 10:10:18.491 [info] > git reflog main --grep-reflog=branch: Created from *. [17ms]
+2025-05-23 10:10:18.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2025-05-23 10:10:18.523 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:10:18.523 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms]
+2025-05-23 10:10:18.539 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2025-05-23 10:10:18.570 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [32ms]
+2025-05-23 10:10:18.586 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2025-05-23 10:10:18.587 [info] > git config --add --local branch.main.vscode-merge-base origin/main [2ms]
+2025-05-23 10:10:18.619 [info] > git status -z -uall [65ms] (cancelled)
+2025-05-23 10:10:18.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-05-23 10:10:18.634 [info] > git config --get --local branch.main.vscode-merge-base [0ms]
+2025-05-23 10:10:18.649 [info] > git config --get commit.template [30ms]
+2025-05-23 10:10:18.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [15ms]
+2025-05-23 10:10:18.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2025-05-23 10:10:18.696 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:10:18.696 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2025-05-23 10:10:18.711 [info] > git rev-parse refs/remotes/origin/main [16ms]
+2025-05-23 10:10:18.739 [info] > git diff --name-status -z --diff-filter=ADMR 06d7b2ef16215d371ead5dcbe3ff68bd996374d2...refs/remotes/origin/main [29ms]
+2025-05-23 10:10:18.740 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-23 10:10:19.060 [info] > git status -z -uall [335ms]
+2025-05-23 10:10:19.078 [info] > git fetch [1398ms]
+2025-05-23 10:10:19.102 [info] > git config --get commit.template [12ms]
+2025-05-23 10:10:19.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:10:19.114 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:10:19.115 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:10:19.140 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:10:19.443 [info] > git status -z -uall [316ms]
+2025-05-23 10:10:20.236 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-23 10:10:23.440 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-23 10:10:24.713 [info] > git show --textconv :.config/waybar/config.jsonc [19ms]
+2025-05-23 10:10:24.715 [info] > git ls-files --stage -- .config/waybar/config.jsonc [3ms]
+2025-05-23 10:10:24.738 [info] > git cat-file -s 30f7488c9740ff1fc5235e47ef4beda7cc607463 [5ms]
+2025-05-23 10:10:50.360 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-23 10:10:55.734 [info] > git show --textconv :.config/swaync/config.json [17ms]
+2025-05-23 10:10:55.734 [info] > git ls-files --stage -- .config/swaync/config.json [1ms]
+2025-05-23 10:10:55.751 [info] > git cat-file -s 2a337aeca3304da83d601347143a67585962cb5d [1ms]
+2025-05-23 10:11:03.095 [info] > git show --textconv :.config/swaync/style.css [17ms]
+2025-05-23 10:11:03.096 [info] > git ls-files --stage -- .config/swaync/style.css [1ms]
+2025-05-23 10:11:03.112 [info] > git cat-file -s 9db43b6d95f647fc2f3e27f1e3884a2592a95082 [1ms]
+2025-05-23 10:13:20.652 [info] > git ls-files --stage -- .config/swaync/style.css [1ms]
+2025-05-23 10:13:20.665 [info] > git cat-file -s 9db43b6d95f647fc2f3e27f1e3884a2592a95082 [1ms]
+2025-05-23 10:13:20.679 [info] > git show --textconv :.config/swaync/style.css [1ms]
+2025-05-23 10:13:25.762 [info] > git fetch [6302ms]
+2025-05-23 10:13:25.785 [info] > git config --get commit.template [12ms]
+2025-05-23 10:13:25.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:13:25.797 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:13:25.799 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-05-23 10:13:25.823 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:13:26.092 [info] > git status -z -uall [282ms]
+2025-05-23 10:13:26.947 [info] > git ls-files --stage -- .config/swaync/style.css [1ms]
+2025-05-23 10:13:26.959 [info] > git cat-file -s 9db43b6d95f647fc2f3e27f1e3884a2592a95082 [1ms]
+2025-05-23 10:13:26.973 [info] > git show --textconv :.config/swaync/style.css [1ms]
+2025-05-23 10:13:48.125 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:13:48.125 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:13:49.170 [info] > git show --textconv :.config/swaync/config.json [16ms]
+2025-05-23 10:13:49.171 [info] > git ls-files --stage -- .config/swaync/config.json [2ms]
+2025-05-23 10:13:49.188 [info] > git cat-file -s 2a337aeca3304da83d601347143a67585962cb5d [1ms]
+2025-05-23 10:13:58.693 [info] > git show --textconv :.config/waybar/config.jsonc [25ms]
+2025-05-23 10:13:58.694 [info] > git ls-files --stage -- .config/waybar/config.jsonc [2ms]
+2025-05-23 10:13:58.712 [info] > git cat-file -s 30f7488c9740ff1fc5235e47ef4beda7cc607463 [3ms]
+2025-05-23 10:14:06.367 [info] > git blame --root --incremental 06d7b2ef16215d371ead5dcbe3ff68bd996374d2 -- .config/waybar/config.jsonc [20ms]
+2025-05-23 10:15:24.632 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:15:24.632 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:16:23.012 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:16:23.012 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:16:27.175 [info] > git fetch [1069ms]
+2025-05-23 10:16:27.188 [info] > git config --get commit.template [1ms]
+2025-05-23 10:16:27.201 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:16:27.214 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:16:27.214 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:16:27.240 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:16:27.506 [info] > git status -z -uall [280ms]
+2025-05-23 10:16:51.500 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:16:51.500 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:18:03.555 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-23 10:18:03.555 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:18:15.191 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:18:15.191 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:18:50.992 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:18:50.992 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:18:59.948 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 10:18:59.948 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:19:28.835 [info] > git fetch [1312ms]
+2025-05-23 10:19:28.855 [info] > git config --get commit.template [2ms]
+2025-05-23 10:19:28.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-23 10:19:28.888 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:19:28.889 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:19:28.923 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-23 10:19:29.205 [info] > git status -z -uall [300ms]
+2025-05-23 10:20:40.925 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:20:40.925 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:20:45.464 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:20:45.464 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:22:31.298 [info] > git fetch [2079ms]
+2025-05-23 10:22:31.323 [info] > git config --get commit.template [13ms]
+2025-05-23 10:22:31.323 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:22:31.335 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:22:31.336 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:22:31.362 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:22:31.636 [info] > git status -z -uall [288ms]
+2025-05-23 10:25:32.699 [info] > git fetch [1045ms]
+2025-05-23 10:25:32.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-23 10:25:32.734 [info] > git config --get commit.template [18ms]
+2025-05-23 10:25:32.749 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:25:32.754 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-05-23 10:25:32.801 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2025-05-23 10:25:33.088 [info] > git status -z -uall [315ms]
+2025-05-23 10:27:42.935 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:27:42.935 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:27:49.491 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:27:49.491 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:28:53.512 [info] > git fetch [1205ms]
+2025-05-23 10:28:53.525 [info] > git config --get commit.template [0ms]
+2025-05-23 10:28:53.538 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:28:53.551 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:28:53.552 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:28:53.579 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:28:53.868 [info] > git status -z -uall [303ms]
+2025-05-23 10:31:54.962 [info] > git fetch [1079ms]
+2025-05-23 10:31:54.991 [info] > git config --get commit.template [15ms]
+2025-05-23 10:31:54.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:31:55.005 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:31:55.005 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:31:55.035 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:31:55.323 [info] > git status -z -uall [305ms]
+2025-05-23 10:32:08.501 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:32:08.501 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:32:11.000 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:32:11.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:32:39.856 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:32:39.856 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:32:41.714 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 10:32:41.714 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:34:53.880 [info] > git show --textconv :.config/waybar/config.jsonc [19ms]
+2025-05-23 10:34:53.881 [info] > git ls-files --stage -- .config/waybar/config.jsonc [2ms]
+2025-05-23 10:34:53.899 [info] > git cat-file -s 30f7488c9740ff1fc5235e47ef4beda7cc607463 [2ms]
+2025-05-23 10:34:56.267 [info] > git fetch [929ms]
+2025-05-23 10:34:56.293 [info] > git config --get commit.template [13ms]
+2025-05-23 10:34:56.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:34:56.306 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:34:56.307 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:34:56.332 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:34:56.611 [info] > git status -z -uall [292ms]
+2025-05-23 10:34:57.455 [info] > git ls-files --stage -- .config/waybar/config.jsonc [1ms]
+2025-05-23 10:34:57.468 [info] > git cat-file -s 30f7488c9740ff1fc5235e47ef4beda7cc607463 [1ms]
+2025-05-23 10:34:57.482 [info] > git show --textconv :.config/waybar/config.jsonc [1ms]
+2025-05-23 10:35:15.129 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:35:15.129 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:35:25.847 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:35:25.847 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:35:32.589 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:35:32.589 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:35:38.169 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 10:35:38.169 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:36:30.585 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:36:30.585 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:36:34.105 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:36:34.105 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:37:23.424 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:37:23.424 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:37:24.571 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:37:24.571 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:37:57.755 [info] > git fetch [1129ms]
+2025-05-23 10:37:57.781 [info] > git config --get commit.template [13ms]
+2025-05-23 10:37:57.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:37:57.794 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:37:57.795 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:37:57.821 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:37:58.089 [info] > git status -z -uall [282ms]
+2025-05-23 10:41:06.654 [info] > git fetch [843ms]
+2025-05-23 10:41:06.683 [info] > git config --get commit.template [14ms]
+2025-05-23 10:41:06.684 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-23 10:41:06.698 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:41:06.699 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:41:06.728 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:41:07.041 [info] > git status -z -uall [328ms]
+2025-05-23 10:41:40.817 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 10:41:40.817 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:41:51.945 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:41:51.945 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:42:47.115 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:42:47.115 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:42:51.338 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:42:51.338 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:43:03.815 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:43:03.815 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:43:24.347 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 10:43:24.347 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:43:58.333 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-23 10:43:58.333 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:44:08.118 [info] > git fetch [1063ms]
+2025-05-23 10:44:08.144 [info] > git config --get commit.template [13ms]
+2025-05-23 10:44:08.144 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:44:08.157 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:44:08.157 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-05-23 10:44:08.184 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:44:08.450 [info] > git status -z -uall [280ms]
+2025-05-23 10:44:33.965 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 10:44:33.965 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:53:36.253 [info] > git fetch [838ms]
+2025-05-23 10:53:36.300 [info] > git config --get commit.template [22ms]
+2025-05-23 10:53:36.300 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 10:53:36.318 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:53:36.321 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-05-23 10:53:36.356 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:53:36.704 [info] > git status -z -uall [367ms]
+2025-05-23 10:53:37.647 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:53:37.647 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:53:39.706 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 10:53:39.706 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:53:55.316 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 10:53:55.316 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 10:58:56.021 [info] > git fetch [971ms]
+2025-05-23 10:58:56.053 [info] > git config --get commit.template [17ms]
+2025-05-23 10:58:56.054 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-23 10:58:56.071 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 10:58:56.072 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 10:58:56.113 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 10:58:56.416 [info] > git status -z -uall [326ms]
+2025-05-23 10:59:32.211 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 10:59:32.211 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:01:57.492 [info] > git fetch [1059ms]
+2025-05-23 11:01:57.518 [info] > git config --get commit.template [13ms]
+2025-05-23 11:01:57.518 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:01:57.531 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:01:57.532 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:01:57.558 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:01:57.833 [info] > git status -z -uall [289ms]
+2025-05-23 11:04:58.687 [info] > git fetch [835ms]
+2025-05-23 11:04:58.705 [info] > git config --get commit.template [1ms]
+2025-05-23 11:04:58.720 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:04:58.736 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:04:58.737 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-05-23 11:04:58.771 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:04:59.057 [info] > git status -z -uall [304ms]
+2025-05-23 11:05:17.943 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:05:17.943 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:05:25.430 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:05:25.430 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:06:20.315 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:06:20.315 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:06:36.370 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:06:36.370 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:07:55.705 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:07:55.705 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:07:59.976 [info] > git fetch [904ms]
+2025-05-23 11:08:00.002 [info] > git config --get commit.template [13ms]
+2025-05-23 11:08:00.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:08:00.015 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:08:00.016 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:08:00.043 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:08:00.325 [info] > git status -z -uall [296ms]
+2025-05-23 11:11:01.179 [info] > git fetch [838ms]
+2025-05-23 11:11:01.205 [info] > git config --get commit.template [13ms]
+2025-05-23 11:11:01.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:11:01.219 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:11:01.219 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-05-23 11:11:01.246 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:11:01.512 [info] > git status -z -uall [280ms]
+2025-05-23 11:14:33.730 [info] > git fetch [925ms]
+2025-05-23 11:14:33.748 [info] > git config --get commit.template [1ms]
+2025-05-23 11:14:33.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:14:33.781 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:14:33.782 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:14:33.817 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:14:34.123 [info] > git status -z -uall [323ms]
+2025-05-23 11:17:34.883 [info] > git fetch [744ms]
+2025-05-23 11:17:34.910 [info] > git config --get commit.template [13ms]
+2025-05-23 11:17:34.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-05-23 11:17:34.923 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:17:34.924 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:17:34.951 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:17:35.219 [info] > git status -z -uall [283ms]
+2025-05-23 11:23:40.634 [info] > git fetch [784ms]
+2025-05-23 11:23:40.668 [info] > git config --get commit.template [18ms]
+2025-05-23 11:23:40.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:23:40.688 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:23:40.689 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-05-23 11:23:40.724 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:23:41.049 [info] > git status -z -uall [343ms]
+2025-05-23 11:23:53.339 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:23:53.339 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:28:40.668 [info] > git fetch [885ms]
+2025-05-23 11:28:40.695 [info] > git config --get commit.template [14ms]
+2025-05-23 11:28:40.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:28:40.710 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:28:40.710 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-05-23 11:28:40.739 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:28:41.044 [info] > git status -z -uall [320ms]
+2025-05-23 11:28:48.231 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:28:48.231 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:31:51.556 [info] > git fetch [1614ms]
+2025-05-23 11:31:51.582 [info] > git config --get commit.template [13ms]
+2025-05-23 11:31:51.583 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:31:51.596 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:31:51.596 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-05-23 11:31:51.624 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:31:51.913 [info] > git status -z -uall [304ms]
+2025-05-23 11:34:52.742 [info] > git fetch [815ms]
+2025-05-23 11:34:52.768 [info] > git config --get commit.template [13ms]
+2025-05-23 11:34:52.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:34:52.781 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:34:52.782 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:34:52.807 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:34:53.101 [info] > git status -z -uall [307ms]
+2025-05-23 11:34:56.537 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-23 11:34:56.537 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:35:12.074 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:35:12.074 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:35:51.679 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:35:51.679 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:36:59.609 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 11:36:59.609 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:37:05.062 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:37:05.063 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:38:28.907 [info] > git fetch [1024ms]
+2025-05-23 11:38:28.921 [info] > git config --get commit.template [1ms]
+2025-05-23 11:38:28.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:38:28.948 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:38:28.949 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:38:28.976 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:38:29.277 [info] > git status -z -uall [315ms]
+2025-05-23 11:38:47.201 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:38:47.201 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:41:38.983 [info] > git fetch [1000ms]
+2025-05-23 11:41:39.010 [info] > git config --get commit.template [13ms]
+2025-05-23 11:41:39.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:41:39.024 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:41:39.025 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:41:39.057 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-23 11:41:39.340 [info] > git status -z -uall [301ms]
+2025-05-23 11:41:43.668 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:41:43.668 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:44:40.287 [info] > git fetch [931ms]
+2025-05-23 11:44:40.300 [info] > git config --get commit.template [1ms]
+2025-05-23 11:44:40.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:44:40.326 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:44:40.327 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:44:40.355 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:44:40.651 [info] > git status -z -uall [311ms]
+2025-05-23 11:44:42.114 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:44:42.114 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:46:03.338 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:46:03.338 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:47:41.471 [info] > git fetch [806ms]
+2025-05-23 11:47:41.498 [info] > git config --get commit.template [14ms]
+2025-05-23 11:47:41.498 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:47:41.511 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:47:41.512 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:47:41.538 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:47:41.807 [info] > git status -z -uall [283ms]
+2025-05-23 11:51:11.030 [info] > git fetch [991ms]
+2025-05-23 11:51:11.045 [info] > git config --get commit.template [1ms]
+2025-05-23 11:51:11.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:51:11.072 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:51:11.073 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:51:11.101 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:51:11.381 [info] > git status -z -uall [295ms]
+2025-05-23 11:51:12.746 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:51:12.746 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:51:14.438 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:51:14.438 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:52:06.346 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 11:52:06.346 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:52:06.983 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-23 11:52:06.984 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:52:07.694 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:52:07.694 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:54:12.266 [info] > git fetch [849ms]
+2025-05-23 11:54:12.292 [info] > git config --get commit.template [13ms]
+2025-05-23 11:54:12.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:54:12.305 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:54:12.306 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:54:12.332 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:54:12.609 [info] > git status -z -uall [291ms]
+2025-05-23 11:55:05.973 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-23 11:55:05.973 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:55:08.914 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-23 11:55:08.914 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-23 11:57:42.557 [info] > git fetch [787ms]
+2025-05-23 11:57:42.599 [info] > git config --get commit.template [20ms]
+2025-05-23 11:57:42.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 11:57:42.615 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 11:57:42.616 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 11:57:42.651 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-23 11:57:42.961 [info] > git status -z -uall [327ms]
+2025-05-23 12:01:14.073 [info] > git fetch [1000ms]
+2025-05-23 12:01:14.098 [info] > git config --get commit.template [13ms]
+2025-05-23 12:01:14.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-23 12:01:14.111 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/quangthaictc/Personal/hyprland-aperture-dotfiles/.git/refs/remotes/origin/main'
+2025-05-23 12:01:14.112 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-05-23 12:01:14.141 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]

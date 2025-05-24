@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../hypr"
+		},
+		{
+			"path": "../../../waybar"
+		},
+		{
+			"path": "../../../zshrc"
+		}
+	],
+	"settings": {}
+}

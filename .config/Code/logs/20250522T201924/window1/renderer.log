@@ -1,0 +1,16 @@
+2025-05-22 20:19:25.152 [info] Started local extension host with pid 8845.
+2025-05-22 20:19:25.249 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 20:19:27.470 [info] Settings Sync: Token updated for the account QuangThaiCTC
+2025-05-22 20:19:27.471 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-22 20:19:27.887 [info] [perf] Render performance baseline is 23ms
+2025-05-22 20:28:15.738 [info] Started local extension host with pid 9936.
+2025-05-22 20:28:15.764 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 20:28:16.694 [info] Settings Sync: Token updated for the account QuangThaiCTC
+2025-05-22 20:28:16.696 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-22 20:28:18.423 [info] [perf] Render performance baseline is 20ms
+2025-05-22 20:29:09.128 [info] Started local extension host with pid 10005.
+2025-05-22 20:29:09.781 [info] Settings Sync: Token updated for the account QuangThaiCTC
+2025-05-22 20:29:12.813 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-05-22 20:29:12.814 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-05-22 20:29:12.821 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-05-22 20:29:12.821 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

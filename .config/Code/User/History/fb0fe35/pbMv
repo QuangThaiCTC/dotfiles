@@ -1,0 +1,30 @@
+{
+    "layer": "top",
+    "margin-top": 2,
+    "margin-bottom": 0,
+    "margin-left": 5,
+    "margin-right": 5,    
+    "spacing": 0,
+
+    "include": [
+        "~/.config/waybar/modules.json"
+    ],
+
+    "modules-left": [
+        "hyprland/workspaces",
+        "hyprland/window"
+    ],
+
+    "modules-center": [
+        "custom/distrologo",
+        "clock"
+    ],
+
+    "modules-right": [
+        "pulseaudio",
+        "bluetooth",
+        "network",
+        "battery", 
+        "group/right"
+    ]
+}

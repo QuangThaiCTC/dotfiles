@@ -1,0 +1,318 @@
+
+{
+  "hyprland/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "6": "6",
+    "7": "7",
+    "active": "\udb82\udfa4",
+    "persistent": "\udb81\udcb2",
+    "special": "\udb81\udcb2",
+    "empty": "\udb81\udcb2",
+    "urgent": "\udb81\udcb2",
+    "default": "\udb81\udcb2"
+	},
+       "persistent-workspaces": {
+             "*": 7
+       }
+},
+
+  "hyprland/window": {
+    "format": "",
+    "icon": true,
+    "icon-size": 24,
+    "max-length": 30,
+    "rewrite": {
+      "(.*) - Brave": "$1",
+      "(.*) - Chromium": "$1",
+      "(.*) - Brave Search": "$1",
+      "(.*) - Outlook": "$1",
+      "(.*) Microsoft Teams": "$1"
+    },
+    "separate-outputs": true
+  },
+
+  "custom/distrologo": {
+    "format": "\udb82\udfa4",
+    "tooltip": false
+  },
+
+  "clock": {
+    "format": "{:%H:%M %a}",
+    "timezone": "",
+    "tooltip": false
+  },
+
+  "pulseaudio": {
+    "scroll-step": 5,
+    "format": "{icon}  {volume}%",
+    "format-bluetooth": "{volume}% {icon} {format_source}",
+    "format-bluetooth-muted": " {icon} {format_source}",
+    "format-muted": " {format_source}",
+    "format-source": "{volume}% \udb80\udf6c",
+    "format-source-muted": "\uf131",
+    "format-icons": {
+      "headphone": "\uf025",
+      "hands-free": "\uf025",
+      "headset": "\uf025",
+      "phone": "\uf095",
+      "portable": "\uf095",
+      "car": "\uf1b9",
+      "default": ["", "", ""]
+    },
+    "on-click": "pavucontrol"
+  },
+
+  "backlight": {
+    "format": "{icon} {percent}%",
+    "format-icons": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "scroll-step": 10
+  },
+
+  "network": {
+    "format": "{ifname}",
+    "format-wifi": "\uf1eb  {essid} ({signalStrength}%)",
+    "format-ethernet": "\uef09  {ifname}",
+    "format-disconnected": "Disconnected \uf071",
+    "max-length": 50
+  },
+
+  "battery": {
+    "states": {
+      "warning": 30,
+      "critical": 15
+    },
+    "format": "{icon} {capacity}%",
+    "format-charging": "\udb80\udc84  {capacity}%",
+    "format-plugged": "\uf1e6  {capacity}%",
+    "format-alt": "{icon}  {time}",
+    "format-icons": ["\uf244", "\uf243", "\uf242", "\uf241", "\uf240"]
+  },
+
+  "custom/notification": {
+    "tooltip-format": "Left: Notifications\nRight: Do not disturb",
+    "format": "{icon}",
+    "format-icons": {
+      "notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "none": "",
+      "dnd-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "dnd-none": "",
+      "inhibited-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification":
+        "<span rise='8pt'><span foreground='red'><sup></sup></span></span>",
+      "dnd-inhibited-none": ""
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": true
+  },
+
+    "custom/exit": {
+    "format": "\uf011",
+    "on-click": "wlogout -C ~/.config/wlogout/style.css -l ~/.config/wlogout/layout",
+    "on-click-right": "hyprlock",
+    "tooltip-format": "Left: Power menu\nRight: Lock screen"
+  },
+
+  "group/right": {
+    "orientation": "inherit",
+    "modules": [
+      "custom/notification",
+      "custom/exit"
+    ]
+  },
+
+  "custom/empty": {
+    "format": ""
+  },
+
+  "custom/tools": {
+    "format": "",
+    "tooltip-format": "Tools"
+  },
+
+  "custom/cliphist": {
+    "format": "",
+    "on-click": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh",
+    "on-click-right": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh d",
+    "on-click-middle": "sleep 0.1 && ~/.config/ml4w/scripts/cliphist.sh w",
+    "tooltip-format": "Left: Open clipboard Manager\nRight: Delete an entry\nMiddle: Clear list"
+  },
+
+  "custom/updates": {
+    "format": "  {}",
+    "escape": true,
+    "return-type": "json",
+    "exec": "~/.config/ml4w/scripts/updates.sh",
+    "interval": 1800,
+    "on-click": "~/.config/ml4w/settings/installupdates.sh",
+    "on-click-right": "~/.config/ml4w/settings/software.sh"
+  },
+
+  "custom/wallpaper": {
+    "format": "",
+    "on-click": "bash -c waypaper &",
+    "on-click-right": "~/.config/hypr/scripts/wallpaper-effects.sh",
+    "tooltip-format": "Left: Select a wallpaper\nRight: Select wallpaper effect"
+  },
+
+  "custom/waybarthemes": {
+    "format": "",
+    "on-click": "~/.config/waybar/themeswitcher.sh",
+    "tooltip-format": "Select a waybar theme"
+  },
+
+  "custom/settings": {
+    "format": "",
+    "on-click": "sleep 0.1 && com.ml4w.dotfilessettings",
+    "tooltip-format": "ML4W Dotfiles Settings"
+  },
+
+  "custom/keybindings": {
+    "format": "",
+    "on-click": "~/.config/hypr/scripts/keybindings.sh",
+    "tooltip": false
+  },
+
+  "custom/windowsvm": {
+    "format": "",
+    "on-click": "~/.config/ml4w/scripts/launchvm.sh",
+    "tooltip": false
+  },
+
+  "custom/appmenuicon": {
+    "format": "",
+    "on-click": "sleep 0.2;rofi -show drun -replace",
+    "on-click-right": "~/.config/hypr/scripts/keybindings.sh",
+    "tooltip-format": "Left: Open the application launcher\nRight: Show all keybindings"
+  },
+
+  "custom/hyprshade": {
+    "format": "",
+    "tooltip-format": "Toggle Screen Shader",
+    "on-click": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh",
+    "on-click-right": "sleep 0.5; ~/.config/hypr/scripts/hyprshade.sh rofi"
+  },
+
+  "custom/hypridle": {
+    "format": "",
+    "return-type": "json",
+    "escape": true,
+    "exec-on-event": true,
+    "interval": 60,
+    "exec": "~/.config/hypr/scripts/hypridle.sh status",
+    "on-click": "~/.config/hypr/scripts/hypridle.sh toggle"
+  },
+
+  "keyboard-state": {
+    "numlock": true,
+    "capslock": true,
+    "format": "{name} {icon}",
+    "format-icons": {
+      "locked": "",
+      "unlocked": ""
+    }
+  },
+
+  "tray": {
+    "icon-size": 21,
+    "spacing": 10
+  },
+
+  "custom/system": {
+    "format": "",
+    "tooltip": false
+  },
+
+  "group/tools": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 300,
+      "children-class": "not-memory",
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "custom/tools",
+      "custom/cliphist",
+      "custom/hypridle",
+      "custom/hyprshade"
+    ]
+  },
+
+  "group/links": {
+    "orientation": "horizontal",
+    "modules": [
+      "custom/chatgpt",
+      "custom/empty"
+    ]
+  },
+
+  "group/settings": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 300,
+      "children-class": "not-memory",
+      "transition-left-to-right": true
+    },
+    "modules": [
+      "custom/settings",
+      "custom/waybarthemes",
+      "custom/wallpaper"
+    ]
+  },
+
+  "power-profiles-daemon": {
+    "format": "{icon}",
+    "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+    "tooltip": true,
+    "format-icons": {
+      "default": "",
+      "performance": "",
+      "balanced": "",
+      "power-saver": ""
+    }
+  },
+
+  "bluetooth": {
+    "format": " {status}",
+    "format-disabled": "",
+    "format-off": "",
+    "interval": 30,
+    "on-click": "blueman-manager",
+    "format-no-controller": ""
+  },
+
+  "user": {
+    "format": "{user}",
+    "interval": 60,
+    "icon": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+    "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right)
+    //"gtk-layer-shell": "false",
+    "height": 45, // Waybar height (to be removed for auto height)
+    // "width": 2560, // Waybar width
+    "spacing": 0, // Gaps between modules (0px) Adjusted in the css
+    "margin-top": 0,
+    //"margin-bottom":-10,
+    "margin-left": 10,
+    "margin-right": 10,
+
+    "include": [
+        "~/.config/waybar/modules.json"
+    ],
+
+    "modules-left": [
+        "custom/launcher",
+        "hyprland/workspaces",
+        "memory"
+    ],
+    "modules-center": [
+        "hyprland/window"
+    ],
+    "modules-right": [
+        "tray",
+        "network",
+        "pulseaudio",
+        "backlight",
+        "battery",
+        "custom/notifications",
+        "clock",
+        // "custom/weather",
+        // "custom/cycle_wall",
+        // "custom/clipboard",
+        "custom/power"
+        // "custom/custom"
+    ]
+}

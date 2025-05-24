@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/home/quangthaictc/.config/hypr"
+		},
+		{
+			"path": "../../../rofi"
+		},
+		{
+			"path": "../../../waybar"
+		}
+	]
+}

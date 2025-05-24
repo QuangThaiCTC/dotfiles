@@ -1,0 +1,25 @@
+2025-05-23 20:21:15.297 [info] Extension host with pid 2072 started
+2025-05-23 20:21:15.297 [info] Skipping acquiring lock for /home/quangthaictc/.config/Code/User/workspaceStorage/d9e98fb1cc727ae4a26448a13af64e32.
+2025-05-23 20:21:15.757 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-23 20:21:15.792 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-23 20:21:15.906 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-23 20:21:15.909 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-05-23 20:21:15.971 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-23 20:21:16.021 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-23 20:21:16.146 [info] Eager extensions activated
+2025-05-23 20:21:16.213 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.216 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.240 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.248 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.289 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.363 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:16.812 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:17.170 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-23 20:21:17.195 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-23 20:21:17.203 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-23 20:21:17.215 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-05-23 20:21:17.268 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-05-23 20:21:17.291 [info] ExtensionService#_doActivateExtension ZainChen.json, startup: false, activationEvent: 'onLanguage:json'
+2025-05-23 20:21:17.445 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-23 20:48:08.757 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-23 20:48:08.817 [info] Extension host with pid 2072 exiting with code 0

@@ -1,0 +1,10 @@
+2025-05-22 20:19:24.257 [info] update#setState idle
+2025-05-22 20:19:54.250 [info] update#setState checking for updates
+2025-05-22 20:19:55.027 [info] update#setState idle
+2025-05-22 20:28:15.206 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8856]: crashed with code 15 and reason 'killed'
+2025-05-22 20:28:15.208 [info] Extension host with pid 8845 exited with code: 0, signal: unknown.
+2025-05-22 20:29:08.971 [info] Extension host with pid 9936 exited with code: 0, signal: unknown.
+2025-05-22 20:29:51.611 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-05-22 20:29:55.783 [error] [DialogMainService]: file open dialog is already or will be showing for the window with the same configuration
+2025-05-22 20:30:03.233 [info] Extension host with pid 10005 exited with code: 0, signal: unknown.
+2025-05-22 20:30:03.239 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 9925]: crashed with code 15 and reason 'killed'
